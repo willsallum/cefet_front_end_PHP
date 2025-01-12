@@ -57,7 +57,7 @@ pelo diretório `C:\wamp64\www\` e coloque a pasta `piratas` lá dentro._
 _²: Se você não sabe o que significa `localhost` e tem curiosidade, leia
 sobre isso no FAQ._
 
-[tutorial-wamp-decom]: https://github.com/willsallum/cefet_front_end_php/docs/usando-wamp-no-decom.pdf
+[tutorial-wamp-decom]: https://github.com/willsallum/cefet_front_end_php/raw/master/docs/usando-wamp-no-decom.pdf
 
 
 ### Exercício 2: escrevendomeuprimeirophp
