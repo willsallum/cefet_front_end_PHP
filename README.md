@@ -5,7 +5,7 @@ tesouros de Barba-Ruiva x2, com Apache, PHP e MySQL. Este é o resultado final:
 
 ![Resultado final da atividade prática](docs/resultado-final.jpg)
 
-[seminal]: https://github.com/willsallum/cefet_front_end_PHP/archive/main_php.zip
+[seminal]: https://github.com/willsallum/cefet_front_end_PHP/archive/main.rar
 
 ## Atividade
 
