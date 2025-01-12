@@ -5,7 +5,7 @@ tesouros de Barba-Ruiva x2, com Apache, PHP e MySQL. Este é o resultado final:
 
 ![Resultado final da atividade prática](docs/resultado-final.jpg)
 
-[seminal]: https://github.com/fegemo/cefet-front-end-pirates/archive/main-php.zip
+[seminal]: https://github.com/willsallum/cefet_front_end_PHP/archive/main-php.zip
 
 ## Atividade
 
@@ -57,7 +57,7 @@ pelo diretório `C:\wamp64\www\` e coloque a pasta `piratas` lá dentro._
 _²: Se você não sabe o que significa `localhost` e tem curiosidade, leia
 sobre isso no FAQ._
 
-[tutorial-wamp-decom]: https://github.com/fegemo/cefet-front-end-pirates/raw/main-php/docs/usando-wamp-no-decom.pdf
+[tutorial-wamp-decom]: https://github.com/willsallum/cefet_front_end_PHP/docs/usando-wamp-no-decom.pdf
 
 
 ### Exercício 2: escrevendomeuprimeirophp
@@ -152,8 +152,8 @@ dado algum erro ao conectar ao banco de dados, ele será exibido no
 navegador e deve ser corrigido (talvez a senha esteja errada, ou o nome
 do banco que você criou seja outro, por exemplo).
 
-[tutorial-phpmyadmin]: https://github.com/fegemo/cefet-front-end-pirates/raw/main-php/docs/abrindo-o-phpmyadmin-no-decom.pdf
-[tutorial-banco-de-dados]: https://github.com/fegemo/cefet-front-end-pirates/raw/main-php/docs/criando-um-banco-de-dados-no-decom.pdf
+[tutorial-phpmyadmin]: https://github.com/willsallum/cefet_front_end_PHP/docs/abrindo-o-phpmyadmin-no-decom.pdf
+[tutorial-banco-de-dados]: https://github.com/willsallum/cefet_front_end_PHP/docs/criando-um-banco-de-dados-no-decom.pdf
 
 
 ### Exercício 4: lendo tesouros do banco de dados
