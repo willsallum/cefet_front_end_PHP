@@ -153,6 +153,7 @@ navegador e deve ser corrigido (talvez a senha esteja errada, ou o nome
 do banco que você criou seja outro, por exemplo).
 
 [tutorial-phpmyadmin]: https://github.com/willsallum/cefet_front_end_php/raw/main/docs/abrindo-o-phpmyadmin-no-decom.pdf
+
 [tutorial-banco-de-dados]: https://github.com/willsallum/cefet_front_end_php/raw/main/docs/criando-um-banco-de-dados-no-decom.pdf
 
 
