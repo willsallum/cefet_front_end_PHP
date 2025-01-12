@@ -152,8 +152,8 @@ dado algum erro ao conectar ao banco de dados, ele será exibido no
 navegador e deve ser corrigido (talvez a senha esteja errada, ou o nome
 do banco que você criou seja outro, por exemplo).
 
-[tutorial-phpmyadmin]: https://github.com/willsallum/cefet_front_end_php/docs/abrindo-o-phpmyadmin-no-decom.pdf
-[tutorial-banco-de-dados]: https://github.com/willsallum/cefet_front_end_php/docs/criando-um-banco-de-dados-no-decom.pdf
+[tutorial-phpmyadmin]: (./docs/abrindo-o-phpmyadmin-no-decom.pdf)
+[tutorial-banco-de-dados]: (./docs/criando-um-banco-de-dados-no-decom.pdf)
 
 
 ### Exercício 4: lendo tesouros do banco de dados
