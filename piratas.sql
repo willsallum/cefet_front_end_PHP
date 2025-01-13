@@ -21,6 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Nome do banco de dados: `banco-dos-tesouros`
 --
+CREATE DATABASE IF NOT EXISTS `banco-dos-tesouros` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `banco-dos-tesouros`;
 
 -- --------------------------------------------------------
 
