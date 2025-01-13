@@ -51,7 +51,7 @@ assim:
 ![A página dos tesouros com apenas um exemplo de tesouro](docs/situacao-inicial.jpg)
 
 
-_¹: Se Windows, normalmente o Wamp é instalado na pasta `C:\wamp64` e se Linux, normalmente é instalado na pasta `opt\lampp`. Logo, procure pelo diretório `C:\wamp64\www\` (Windows) ou `opt\lampp\htdos` (Linux) e coloque a pasta `piratas` lá dentro._
+_¹: Se Windows, normalmente o Wamp é instalado na pasta `C:\wamp64` e se Linux, normalmente é instalado na pasta `opt\lampp`. Logo, procure pelo diretório `C:\wamp64\www\` (Windows) ou `opt\lampp\htdcs` (Linux) e coloque a pasta `piratas` lá dentro._
 
 _²: Se você não sabe o que significa `localhost` e tem curiosidade, leia sobre isso no FAQ._
 
