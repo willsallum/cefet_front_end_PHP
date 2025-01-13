@@ -128,7 +128,7 @@ no topo do seu arquivo `index.php`, antes mesmo do `<!DOCTYPE html>`:
 <?php
   // faz a conexão com o banco de dados que criamos no MySQL usando o phpMyAdmin
   //                    endereço    usuario  senha   nome do banco
-  $db = mysqli_connect("localhost", "root", "123456", "banco-dos-tesouros");
+  $db = mysqli_connect("localhost", "root", "", "banco-dos-tesouros");
   $db->set_charset("utf8");
 
   // verifica se a conexão funcionou...
