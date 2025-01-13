@@ -28,8 +28,8 @@ nos computadores do laboratório do DECOM.
 
 Após [baixar o código seminal][seminal] do trabalho, (a)
 **descompacte-o** na área de trabalho, (b) **renomeie a pasta** para
-`piratas`, (c) crie uma **pasta `piratas`** dentro do diretório `www` do
-WampServer¹ e (d) **mova a pasta `piratas`** para dentro desse diretório
+`piratas`, (c) crie uma **pasta `piratas`** dentro do diretório `www` (se windows) ou diretório htdos (se linux) do
+WampServer/Xampp¹ e (d) **mova a pasta `piratas`** para dentro desse diretório
 (do `www`).
 
 Agora, (e) abra um navegador e **acesse `http://localhost/piratas/`²** para
@@ -51,11 +51,9 @@ assim:
 ![A página dos tesouros com apenas um exemplo de tesouro](docs/situacao-inicial.jpg)
 
 
-_¹: Normalmente o Wamp é instalado na pasta `C:\wamp64`. Logo, procure
-pelo diretório `C:\wamp64\www\` e coloque a pasta `piratas` lá dentro._
+_¹: Se Windows, normalmente o Wamp é instalado na pasta `C:\wamp64` e se Linux, normalmente é instalado na pasta `opt\lampp`. Logo, procure pelo diretório `C:\wamp64\www\` (Windows) ou `opt\lampp\htdos` (Linux) e coloque a pasta `piratas` lá dentro._
 
-_²: Se você não sabe o que significa `localhost` e tem curiosidade, leia
-sobre isso no FAQ._
+_²: Se você não sabe o que significa `localhost` e tem curiosidade, leia sobre isso no FAQ._
 
 [tutorial-wamp-decom]: https://github.com/willsallum/cefet_front_end_php/raw/main/docs/usando-wamp-no-decom.pdf
 
@@ -313,7 +311,7 @@ _loopback_ (ou de retorno). Ele representa o próprio computador que o
 está acessando.
 
 Logo, para acessar o Apache executando na nossa própria máquina, podemos abrir
-o navegador e acessar: `http://127.0.0.1/` (teste aí, depois de ativar o Wamp).
+o navegador e acessar: `http://127.0.0.1/` (teste aí, depois de ativar o Wamp ou xampp).
 
 Contudo, acessar um computador por seu IP não costuma ser uma boa ideia
 (porque é mais fácil decorar um nome do que uma sequência de 4 números). Logo,
